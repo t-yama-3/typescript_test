@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/t-yama-3/typescript_test/issues"
   },
-  "homepage": "https://github.com/t-yama-3/typescript_test#readme"
+  "homepage": "https://github.com/t-yama-3/typescript_test#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
